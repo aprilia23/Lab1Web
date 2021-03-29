@@ -5,6 +5,7 @@
 <p>Mata Kuliah  : Pemograman Web - Tugas 3
 <p>Dosen  :Agung Nugroho,S.Kom.,M.Kom </p>
 
+
 1.	ketika di validasi kalau ada penulisan pada tag yg salah pada html. seperti contoh dibawah ini
 
 
@@ -64,3 +65,19 @@ Hasil dari browser akan menampilkan :
 
 
 
+Tugas :
+
+1. Membuat Paragraf
+
+Membuat title dengan nama Tag HTML Dasar
+
+![img1](https://user-images.githubusercontent.com/54062259/112799651-d51fec80-9098-11eb-980e-daa6889cb1aa.PNG)
+
+
+
+
+
+3. Menambahkan judul
+4. Memformat Teks
+5. Menyisipkan Gambar
+6. Menambahkan Hyperlink
