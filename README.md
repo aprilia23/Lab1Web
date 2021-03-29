@@ -74,6 +74,25 @@ Membuat title dengan nama Tag HTML Dasar
 ![img1](https://user-images.githubusercontent.com/54062259/112799651-d51fec80-9098-11eb-980e-daa6889cb1aa.PNG)
 
 
+![img2](https://user-images.githubusercontent.com/54062259/112800650-2086ca80-909a-11eb-9953-641470b15e4c.PNG)
+
+![img3](https://user-images.githubusercontent.com/54062259/112800830-5e83ee80-909a-11eb-88ab-6a4bac3e3bdc.PNG)
+![img4](https://user-images.githubusercontent.com/54062259/112800903-78253600-909a-11eb-901f-f38f0e1708fe.PNG)
+
+![img5](https://user-images.githubusercontent.com/54062259/112801279-e4a03500-909a-11eb-943a-c09ca314ca38.PNG)
+![img6](https://user-images.githubusercontent.com/54062259/112801300-ec5fd980-909a-11eb-9045-a71f8036cc4e.PNG)
+
+![img21](https://user-images.githubusercontent.com/54062259/112801345-fc77b900-909a-11eb-8848-9a6650bb438b.PNG)
+![img23](https://user-images.githubusercontent.com/54062259/112801377-06012100-909b-11eb-8e5d-f6618324858d.PNG)
+![img24](https://user-images.githubusercontent.com/54062259/112801408-0e595c00-909b-11eb-8838-bfec8dad2dac.PNG)
+
+![img31](https://user-images.githubusercontent.com/54062259/112801507-2b8e2a80-909b-11eb-8979-2d1cd1ad94d3.PNG)
+
+
+![img41](https://user-images.githubusercontent.com/54062259/112801647-5b3d3280-909b-11eb-83f4-ff2692ed569c.PNG)
+![img51](https://user-images.githubusercontent.com/54062259/112801743-73ad4d00-909b-11eb-973a-baf6e94aed7c.PNG)
+
+
 
 
 
