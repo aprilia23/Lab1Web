@@ -76,17 +76,20 @@ Membuat title dengan nama Tag HTML Dasar
 
 ![img2](https://user-images.githubusercontent.com/54062259/112800650-2086ca80-909a-11eb-9953-641470b15e4c.PNG)
 
+
 Hasilnya
+
 
 ![img21](https://user-images.githubusercontent.com/54062259/112801345-fc77b900-909a-11eb-8848-9a6650bb438b.PNG)
 
-Menambahkan Rata kanan dan tengah teks
+
+Menambahkan Rata kanan dan tengah pada teks
 
 ![img3](https://user-images.githubusercontent.com/54062259/112800830-5e83ee80-909a-11eb-88ab-6a4bac3e3bdc.PNG)
 
 Hasilnya
 
-![img23](https://user-images.githubusercontent.com/54062259/112801377-06012100-909b-11eb-8e5d-f6618324858d.PNG)
+![img24](https://user-images.githubusercontent.com/54062259/112801408-0e595c00-909b-11eb-8838-bfec8dad2dac.PNG)
 
 
 Menambahkam gambar dan memformat teks
@@ -97,20 +100,9 @@ Hasilnya
 
 ![img51](https://user-images.githubusercontent.com/54062259/112801743-73ad4d00-909b-11eb-973a-baf6e94aed7c.PNG)
 
-
 Menambahkan hyperlink 
 
-
 ![img6](https://user-images.githubusercontent.com/54062259/112801300-ec5fd980-909a-11eb-9045-a71f8036cc4e.PNG)
-
-
-
-![img24](https://user-images.githubusercontent.com/54062259/112801408-0e595c00-909b-11eb-8838-bfec8dad2dac.PNG)
-
-![img31](https://user-images.githubusercontent.com/54062259/112801507-2b8e2a80-909b-11eb-8979-2d1cd1ad94d3.PNG)
-
-
-![img41](https://user-images.githubusercontent.com/54062259/112801647-5b3d3280-909b-11eb-83f4-ff2692ed569c.PNG)
 
 
 
